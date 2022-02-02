@@ -3,6 +3,8 @@
 
 #### The aim of this project is to practice ReactJS and API fetching practice.
 
+#### https://searchmovie-api.netlify.app/
+
 ![](images/img1.png)
 
 # Getting Started with Create React App
